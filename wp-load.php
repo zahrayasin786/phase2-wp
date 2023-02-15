@@ -19,6 +19,7 @@
 /** Define ABSPATH as this file's directory */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
+	abchgwdje
 }
 
 /*
